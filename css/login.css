@@ -1,0 +1,58 @@
+body{
+    background-color: #cccaaa;
+}
+
+header{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-top: 240px;
+}
+
+form{
+    padding: 30px;
+    background-color:darkgrey;
+    width: 35%;
+    margin-left: 670px;
+
+    text-align: center;
+
+}
+
+label{
+    color: black;
+    font-weight: bold;
+}
+
+input{
+    width:30%;
+    padding-bottom: 5px;
+    background-color: antiquewhite;
+    border: 1.5px solid white;
+
+}
+
+button {
+    background-color: lightblue;
+    padding: 10px 35px;
+    text-align: center;
+    display: inline-block;
+    font-size: 13px;
+    margin: 2px 2px;
+    cursor: pointer;
+    color: black;
+    border: 1.5px solid white;
+}
+
+a:link{
+    color:black;
+    text-decoration:none;
+}
+
+a:visited{
+    color:black;
+}
+
+a:hover{
+    color: black;
+}
